@@ -1,0 +1,36 @@
+bg:          '#fafcff'
+text:        '#191919'
+
+# reds
+red1:        '#f43753'
+red2:        '#c5152f'
+red3:        '#b81616'
+red4:        '#ffcbcb'
+# blues
+blue1:       '#91b8c4'
+blue2:       '#4e99b3'
+blue3:       '#0062c4'
+blue4:       '#d5ecf7'
+# greens
+green1:      '#3d9962'
+green2:      '#00993d'
+green3:      '#296641'
+green4:      '#c4f5de'
+# yellows
+yellow1:     '#ff8c00'
+yellow2:     '#d97d21'
+yellow3:     '#cc6600'
+yellow4:     '#fff373'
+
+# whites
+dimmed:      '#cccccc'
+separated:   '#f0f3f5'
+highlighted: '#e6e6e6'
+
+# greys
+grey1:       '#999999'
+grey2:       '#666666'
+grey3:       '#444444'
+shadow:      '#323232'
+darker:      '#1d1d1d'
+darkest:     '#040404'

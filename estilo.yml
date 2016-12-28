@@ -2,7 +2,7 @@ name: 'ligero'
 version: '1.0.0'
 license: 'MIT'
 author: 'Stefan Wimmer'
-url: 'http://github.com/wimstefan/ligero'
+url: 'http://github.com/wimstefan/ligero-theme'
 description: 'A light colorscheme created with estilo'
 colorschemes:
   - name: ligero

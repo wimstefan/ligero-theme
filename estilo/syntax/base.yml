@@ -12,10 +12,10 @@ DiffChange: '- blue4'
 DiffDelete: 'red1 red4'
 DiffText: '- blue4 bi'
 ErrorMsg: 'red1 - r'
-VertSplit: 'separated separated'
+VertSplit: ''
 Folded: 'grey2 dimmed'
 FoldColumn: 'grey2 dimmed'
-SignColumn: ''
+SignColumn: '-  separated'
 IncSearch: '- - bu'
 LineNr: 'grey3 -'
 MatchParen: 'red1 - b'
@@ -23,7 +23,7 @@ ModeMsg: ''
 MoreMsg: ''
 NonText: 'grey3 -'
 Normal: 'text bg'
-PMenu: 'bg blue2'
+PMenu: 'bg blue1'
 PMenuSel: 'bg green1'
 PmenuSbar: 'yellow1 yellow1'
 PmenuThumb: 'yellow2 yellow2'
@@ -60,7 +60,7 @@ Label: '' # Statement
 Operator: 'red1 -' # Statement
 Keyword: '' # Statement
 Exception: 'red1 -' # Statement
-PreProc: 'green2 -'
+PreProc: 'green1 -'
 Include: '' # PreProc
 Define: '' # PreProc
 Macro: '' # PreProc

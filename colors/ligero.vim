@@ -4,7 +4,7 @@
 " URL: http://github.com/wimstefan/ligero-theme
 " Author: Stefan Wimmer
 " License: MIT
-" Last Change: 2017/06/01 12:06
+" Last Change: 2017/06/01 22:26
 " ===============================================================
 
 hi clear
@@ -43,7 +43,7 @@ hi SpellLocal guifg=#ff8c00 ctermfg=208 guibg=NONE ctermbg=NONE gui=NONE cterm=N
 hi SpellCap guifg=#d97d21 ctermfg=172 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellRare guifg=#4e99b3 ctermfg=67 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi StatusLine guifg=#4e99b3 ctermfg=67 guibg=#f0f3f5 ctermbg=255 gui=NONE cterm=NONE
-hi StatusLineNC guifg=#191919 ctermfg=234 guibg=#cccccc ctermbg=252 gui=NONE cterm=NONE
+hi StatusLineNC guifg=#fafcff ctermfg=15 guibg=#cccccc ctermbg=252 gui=NONE cterm=NONE
 hi TabLine guifg=#fafcff ctermfg=15 guibg=#444444 ctermbg=238 gui=NONE cterm=NONE
 hi TabLineFill guifg=NONE ctermfg=NONE guibg=#444444 ctermbg=238 gui=NONE cterm=NONE
 hi TabLineSel guifg=#fafcff ctermfg=15 guibg=#4e99b3 ctermbg=67 gui=bold cterm=bold

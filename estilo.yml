@@ -1,9 +1,9 @@
 name: 'ligero'
-version: '1.0.0'
+version: '1.0.1'
 license: 'MIT'
 author: 'Stefan Wimmer'
 url: 'http://github.com/wimstefan/ligero-theme'
-description: 'A light colorscheme created with estilo'
+description: 'A transparent colorscheme for both light & dark backgrounds created with estilo'
 colorschemes:
   - name: ligero
     background: 'light'

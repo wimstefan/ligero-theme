@@ -22,12 +22,12 @@ MatchParen: 'red1 - b'
 ModeMsg: ''
 MoreMsg: ''
 NonText: 'grey3 -'
-Normal: 'text bg'
+Normal: '- -'
 PMenu: 'bg blue1'
 PMenuSel: 'text green1'
 PmenuSbar: 'yellow1 yellow1'
 PmenuThumb: 'yellow2 yellow2'
-Question: 'green1 -'
+Question: 'green2 -'
 Search: '- yellow4'
 SpecialKey: 'blue2'
 SpellBad: 'red1'
@@ -56,13 +56,13 @@ Float: 'yellow2 -' # Constant
 Identifier: 'blue3 -'
 Function: 'blue3 -' # Identifier
 Statement: 'blue3 -'
-Conditional: 'green2 -' # Statement
+Conditional: 'green1 -' # Statement
 Repeat: '' # Statement
 Label: '' # Statement
 Operator: 'red1 -' # Statement
 Keyword: '' # Statement
 Exception: 'red1 -' # Statement
-PreProc: 'green1 -'
+PreProc: 'green2 -'
 Include: '' # PreProc
 Define: '' # PreProc
 Macro: '' # PreProc
@@ -79,7 +79,7 @@ SpecialComment: '' # Special
 Debug: '' # Special
 Underlined: '- - u'
 Ignore: ''
-Error: 'text red1'
+Error: '- red1'
 Todo: 'red1 - b'
 
 

@@ -4,12 +4,12 @@ text:        '#191919'
 # reds
 red1:        '#f43753'
 red2:        '#c5152f'
-red3:        '#b81616'
+red3:        '#a11337'
 red4:        '#ffcbcb'
 # blues
 blue1:       '#91b8c4'
 blue2:       '#4e99b3'
-blue3:       '#0062c4'
+blue3:       '#007fff'
 blue4:       '#d5ecf7'
 # greens
 green1:      '#9DE0BF'
@@ -17,7 +17,7 @@ green2:      '#3d9962'
 green3:      '#296641'
 green4:      '#c4f5de'
 # yellows
-yellow1:     '#ff8c00'
+yellow1:     '#ffb700'
 yellow2:     '#d97d21'
 yellow3:     '#cc6600'
 yellow4:     '#fff373'
